@@ -1,5 +1,5 @@
 # MMS 142 GROUP E Overview
-**Delegation of Tasks:**
+**Delegation of Tasks**
 
 | Content  | GitHub Mods |
 |   :---:  |   :---:   |
@@ -8,9 +8,7 @@
 | Nicole Dayao  | Jeremias Cotibar  |
 | Faith Delos Reyes  | Alexandra Dayo  |  
 
-<p>&nbsp;</p>
-
-
+**Schedule**
 
 | Task  | Date |
 |   :---:  |   :---:   |
@@ -18,3 +16,6 @@
 | Content completion  | Dec 1 - 10 (?)   |
 | GitHub Pages Completion  | Dec 1 - 16  |
 | Final Revisions  | Dec 16 - 17  |
+<p>&nbsp;</p>
+____________________________________________________________________________
+<p>&nbsp;</p>
