@@ -3,19 +3,15 @@
 ## Outline
 
 I. Introduction
-Definition of Disruptive Technologies
-Overview of Cloud Technology
-Overview of Cloud computing
+a. Definition of Disruptive Technologies
+b. Overview of Cloud Technology
+c. Overview of Cloud computing
 
 II. Cloud Computing as a Disruptive Technology
-Why Cloud Computing can be Considered Disruptive
-Provide an Example by Illustrating the Current Situation and Show How it Disrupts (The Restructuring Of Resource Management And Data Storage)
+a. Why Cloud Computing can be Considered Disruptive
+b. Provide an Example by Illustrating the Current Situation and Show How it Disrupts (The Restructuring Of Resource Management And Data Storage)
 
 III. Conclusion
-Summary Of Major Points
-Summary Of Weaknesses
-Take Home Message
-
 ____________________________________________________________________________
 
 ### INTRODUCTION
