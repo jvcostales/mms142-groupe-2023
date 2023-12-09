@@ -44,7 +44,10 @@ Cloud technology does not merely offer a solution to the perpetual storage chall
 
 ### REFERENCES
 McKendrick, J. (2016, February 26). Is Cloud Computing Truly, Truly Disruptive? Forbes. https://www.forbes.com/sites/joemckendrick/2016/02/26/is-cloud-computing-truly-truly-disruptive/?sh=68542f1b4295
+
 Moutsos, J. (2023, August 17). What is Cloud Technology? How Does It Work?. Dynamix 
+
 Satell, G. (2014, January 5). Why The Cloud Just Might Be The Most Disruptive Technology Ever. Forbes. https://www.forbes.com/sites/gregsatell/2014/01/05/why-the-cloud-just-might-be-the-most-disruptive-technology-ever/?sh=4ace5b401731
 Solutions. https://dynamixsolutions.com/what-is-cloud-technology-and-how-does-it-work/ 
+
 What is Cloud Computing?. Microsoft Azure. (n.d.). https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale. 
