@@ -30,7 +30,7 @@ Within the realm of Cloud Technology lies cloud computing—an essential force r
 
 
 ### CONCLUSION
-
+Cloud technology does not merely offer a solution to the perpetual storage challenge but revolutionizes how individuals and businesses manage their digital resources, fueled by the core principles of speed, scalability, and cost savings. Essentially, these principles trigger various paradigm shifts such as larger-scale competition for smaller businesses and the displacement of traditional delivery models by platforms like GrabFood and FoodPanda. These shifts not only challenges established norms but creates novel markets and opportunities. As a result, businesses, organizations, and companies are called to either adapt or risk their relevance in the face of an ever-evolving landscape. Cloud Technology has not only become a disruptive force in technology, but it has and proven to reimagine and reshape how industries function. With this, a new era begins, calling for change and modernity. 
 
 ### REFERENCES
 Moutsos, J. (2023, August 17). What is Cloud Technology? How Does It Work?. Dynamix Solutions. https://dynamixsolutions.com/what-is-cloud-technology-and-how-does-it-work/ 
