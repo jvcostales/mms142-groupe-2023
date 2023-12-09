@@ -28,11 +28,23 @@ Within the realm of Cloud Technology lies cloud computing—an essential force r
 
 ### DEFINITION OF DISRUPTIVE TECHNOLOGIES IN THE CONTEXT OF CLOUD COMPUTING
 
+### A. Why Cloud Computing Can Be Considered Disruptive
+
+Does cloud computing live up to the hype? Can it truly be a disruptive technology? While the initial promises of speed, scalability, and cost savings were undeniable, the cloud has gone far beyond mere efficiency. It's not just revolutionizing how businesses operate– it’s reimagining entire industries. This unlocks a world of possibilities that were previously unimaginable.
+
+Cloud-driven disruptive innovation is unfolding on two distinct fronts (McKendrick, 2016). Firstly, cloud-based software has made significant development in the technology industry. With these innovations came advanced computing resources which changed the game for smaller businesses, allowing them to stand closer to industries on a larger scale. This also enabled healthy competition and continuous technological advancements within the industry.
+
+The second facet of cloud-induced disruption occurs at the business level. Cloud computing's impact on businesses goes beyond mere operational adjustments. It can seamlessly scale resources up or down based on demand, fostering a dynamic and responsive approach to market fluctuations. The cloud enables businesses to swiftly adapt to changing circumstances, capitalize on emerging opportunities, and navigate challenges with unparalleled flexibility.
+
+However, the main disruptive nature of the cloud stems from its capacity to compel established players in the industry to rethink their business models, encompassing pricing strategies, sales channels, and fundamental technology structures (Satell, 2014). The disruption caused by the cloud serves as a driving force for organizations to reconsider old ways of doing things that have influenced industry standards for decades. Embracing this change becomes not only a survival strategy but a pathway to sustainable growth and relevance in an ever-evolving business and technological landscape.
+
 
 ### CONCLUSION
 Cloud technology does not merely offer a solution to the perpetual storage challenge but revolutionizes how individuals and businesses manage their digital resources, fueled by the core principles of speed, scalability, and cost savings. Essentially, these principles trigger various paradigm shifts such as larger-scale competition for smaller businesses and the displacement of traditional delivery models by platforms like GrabFood and FoodPanda. These shifts not only challenges established norms but creates novel markets and opportunities. As a result, businesses, organizations, and companies are called to either adapt or risk their relevance in the face of an ever-evolving landscape. Cloud Technology has not only become a disruptive force in technology, but it has and proven to reimagine and reshape how industries function. With this, a new era begins, calling for change and modernity. 
 
 ### REFERENCES
-Moutsos, J. (2023, August 17). What is Cloud Technology? How Does It Work?. Dynamix Solutions. https://dynamixsolutions.com/what-is-cloud-technology-and-how-does-it-work/ 
+McKendrick, J. (2016, February 26). Is Cloud Computing Truly, Truly Disruptive? Forbes. https://www.forbes.com/sites/joemckendrick/2016/02/26/is-cloud-computing-truly-truly-disruptive/?sh=68542f1b4295
+Moutsos, J. (2023, August 17). What is Cloud Technology? How Does It Work?. Dynamix 
+Satell, G. (2014, January 5). Why The Cloud Just Might Be The Most Disruptive Technology Ever. Forbes. https://www.forbes.com/sites/gregsatell/2014/01/05/why-the-cloud-just-might-be-the-most-disruptive-technology-ever/?sh=4ace5b401731
+Solutions. https://dynamixsolutions.com/what-is-cloud-technology-and-how-does-it-work/ 
 What is Cloud Computing?. Microsoft Azure. (n.d.). https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale. 
-
