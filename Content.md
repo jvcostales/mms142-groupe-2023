@@ -50,12 +50,17 @@ However, the main disruptive nature of the cloud stems from its capacity to comp
 ### B. Provide an Example by Illustrating the Current Situation and Show How it Disrupts 
 The cloud enables users to access information remotely around the world. Because of this, most product and service providers create or use online platforms to operate. Disruption from these platforms replaces face-to-face interaction and the need for particular jobs and physical equipment to function. For example, GrabFood and FoodPanda, both notably used food couriers in the Philippines, are favored more by employers over hiring private delivery personnel. In addition to the delivery function of the platforms, they also offer coupons and membership deals that greatly appeal to customers. As McKendrick (2016) notes, disruptive technology promotes itself in a way that seems lower in status compared to current trends but builds up to create new markets that make those trends eventually useless.
 
+### C. Global Spending
+Given the current pervasive influence of cloud technology across numerous companies and businesses, it is reasonable to anticipate its continual growth, evolution, and potential to overcome additional barriers in the future. In tandem with its expansion, the global expenditure on cloud computing technology is expected to steadily climb. Statista predicts its estimated value to reach 679 billion US dollars by 2024. This upsurge will have implications for various facets, including services, business processes, platforms, software, among others (Vailshery, 2023). Furthermore, Gartner envisions that by 2026, 75% of entities will readily embrace this digital transformation (Gartner, 2023). It seems inevitable that cloud technology will become a standard practice globally, with the remaining 25% transitioning to this norm in due course.
+
 ### CONCLUSION
 The presence of disruptive technology allows consumers and businesses to use superior options in the market. Moreover, underserviced markets can attract more competitors and customers as they introduce new products with good quality despite their low or average markup and limited resources.
 
 Cloud technology does not merely offer a solution to the perpetual storage challenge but revolutionizes how individuals and businesses manage their digital resources, fueled by the core principles of speed, scalability, and cost savings. Essentially, these principles trigger various paradigm shifts such as larger-scale competition for smaller businesses and the displacement of traditional delivery models by platforms like GrabFood and FoodPanda. These shifts not only challenges established norms but creates novel markets and opportunities. As a result, businesses, organizations, and companies are called to either adapt or risk their relevance in the face of an ever-evolving landscape. Cloud Technology has not only become a disruptive force in technology, but it has and proven to reimagine and reshape how industries function. With this, a new era begins, calling for change and modernity. 
 
 ### REFERENCES
+Gartner Forecasts Worldwide Public Cloud End-user spending to reach nearly $600 billion in 2023. Gartner. (2023, April 19). https://www.gartner.com/en/newsroom/press-releases/2023-04-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-reach-nearly-600-billion-in-2023 
+
 McKendrick, J. (2016, February 26). Is Cloud Computing Truly, Truly Disruptive? Forbes. https://www.forbes.com/sites/joemckendrick/2016/02/26/is-cloud-computing-truly-truly-disruptive/?sh=68542f1b4295
 
 Moutsos, J. (2023, August 17). What is Cloud Technology? How Does It Work?. Dynamix 
@@ -66,6 +71,8 @@ Solutions. https://dynamixsolutions.com/what-is-cloud-technology-and-how-does-it
 Smith, T., (2022, Apr. 2). Disruptive Technology: Definition, Example, and How to Invest. Investopedia. https://www.investopedia.com/terms/d/disruptive-technology.asp
 
 SYDLE. (2022, Oct. 10). 12 Examples of Disruptive Technologies You Need to Know. https://www.sydle.com/blog/disruptive-technologies-61aa52868621853d1165bf07
+
+Vailshery, L. S. (2023, November 14). Public cloud computing market size 2024. Statista. https://www.statista.com/statistics/273818/global-revenue-generated-with-cloud-computing-since-2009/ 
 
 What is Cloud Computing?. Microsoft Azure. (n.d.). https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale. 
 
