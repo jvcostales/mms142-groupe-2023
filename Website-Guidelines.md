@@ -12,5 +12,7 @@ Disruptive Tech Page:
 
 About Page:
 DESIGN - https://www.canva.com/design/DAF2vL1j1iw/PPsw8kcV9H3S0maPgqpg_g/edit?utm_content=DAF2vL1j1iw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Code - https://github.com/jeremiascotibar/jeremiascotibar.github.io/blob/843d64fd6c5c9b42c0754e465abc2387404531e5/index.html
+
 WEBSITE PREVIEW - https://jeremiascotibar.github.io/
