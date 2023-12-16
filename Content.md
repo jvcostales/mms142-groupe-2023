@@ -59,7 +59,9 @@ The presence of disruptive technology allows consumers and businesses to use sup
 Cloud technology does not merely offer a solution to the perpetual storage challenge but revolutionizes how individuals and businesses manage their digital resources, fueled by the core principles of speed, scalability, and cost savings. Essentially, these principles trigger various paradigm shifts such as larger-scale competition for smaller businesses and the displacement of traditional delivery models by platforms like GrabFood and FoodPanda. These shifts not only challenges established norms but creates novel markets and opportunities. As a result, businesses, organizations, and companies are called to either adapt or risk their relevance in the face of an ever-evolving landscape. Cloud Technology has not only become a disruptive force in technology, but it has and proven to reimagine and reshape how industries function. With this, a new era begins, calling for change and modernity. 
 
 ### REFERENCES
-Gartner Forecasts Worldwide Public Cloud End-user spending to reach nearly $600 billion in 2023. Gartner. (2023, April 19). https://www.gartner.com/en/newsroom/press-releases/2023-04-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-reach-nearly-600-billion-in-2023 
+Gartner Forecasts Worldwide Public Cloud End-user spending to reach nearly $600 billion in 2023. Gartner. (2023, April 19). https://www.gartner.com/en/newsroom/press-releases/2023-04-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-reach-nearly-600-billion-in-2023
+
+IDC Forecasts Worldwide “Whole Cloud” Spending to Reach $1.3 Trillion by 2025. IDC. (2021, September 14). https://web.archive.org/web/20220729205418/https://www.idc.com/getdoc.jsp?containerId=prUS48208321 
 
 McKendrick, J. (2016, February 26). Is Cloud Computing Truly, Truly Disruptive? Forbes. https://www.forbes.com/sites/joemckendrick/2016/02/26/is-cloud-computing-truly-truly-disruptive/?sh=68542f1b4295
 
