@@ -13,6 +13,11 @@ function findWord() {
   var searchText = document.getElementById('searchInput').value;
   var texts = document.querySelectorAll('.searchword');
 
+  if (searchText.includes(' ')) {
+    alert('Please enter one word only.');
+    return;
+  }
+
   texts.forEach(function (element) {
     element.innerHTML = element.textContent || element.innerText;
     highlightText(element, searchText);
